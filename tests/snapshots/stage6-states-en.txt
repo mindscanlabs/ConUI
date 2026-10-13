@@ -1,0 +1,41 @@
+                                                     CONUI · PLAYGROUND                                                     
+                                                                                                                            
+     FILE   VIEW   WIDGETS   THEME   HELP                                                      Phosphor · 124×41 · OPACITY 9
+   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+        ┌[ STATES ]─────────────────────────────────────────────────────────────────────────────────────────────────────────
+      │ WIDGET        IDLE            HOVER           ACTIVE          FOCUS           DISABLED        ERROR                │
+      │ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────── │
+      │ Button        [ RUN ]         ▐ RUN ▌         ▓ RUN ▓         ◆ RUN ]         [ RUN ]         —                    │
+      │                                                                                                                    │
+     │ Default       ◆ RUN ◆         ▐ RUN ▌         ▓ RUN ▓         ◆ RUN ◆         [ RUN ]         —                    │ 
+     │                                                                                                                    │ 
+     │ Danger        [ DELETE ]      ▐ DELETE ▌      ▓ DELETE ▓      ◆ DELETE ]      [ DELETE ]      —                    │ 
+    │                                                                                                                    │  
+    │ Checkbox      [✓] On          [✓] On          [✓] On          ◆✓] On          [✓] On          —                    │  
+    │                                                                                                                    │  
+    │ Radio         (●) A           (●) A           (●) A           ◆●) A           (●) A           —                    │  
+    │                                                                                                                    │  
+     │ Switch            ON              ON              ON              ON              ON          —                    │ 
+     │                                                                                                                    │ 
+     │ Slider                                                        ◆                               —                    │ 
+     │                                                                                                                    │ 
+     │ Text field     conui          ▌conui          ▌conui          ▌conui           conui             c░nui             │ 
+     │                                                                                                                    │ 
+     │ Dropdown       Normal     ▼   ▌Normal     ▼   ▌Normal     ▼   ▌Normal     ▼    Normal     ▼   —                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     │                                                                                                                    │ 
+     └────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘ 
+    ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   READY   F1 help   F11 fullscreen   Ctrl+Q quit                                     60 FPS · 1 draw call · 12408 verts ◆  

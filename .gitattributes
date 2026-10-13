@@ -1,0 +1,7 @@
+# LF everywhere: the shell scripts must run in bash, and the self-test compares
+# tests/snapshots/*.txt byte for byte.
+* text=auto eol=lf
+
+*.png binary
+*.ico binary
+*.ttf binary

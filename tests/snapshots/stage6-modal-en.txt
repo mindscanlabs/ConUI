@@ -1,0 +1,41 @@
+                                                     CONUI · PLAYGROUND                                                     
+                                                                                                                            
+     FILE   VIEW   WIDGETS   THEME   HELP                                                      Phosphor · 124×41 · OPACITY 9
+   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+        ┌[ WIDGETS ]─┐ INPUT ├─┐ SETTINGS ├┐ ┌[ FILESYSTEM ]────────────────────┐  PID   │ NAME         │ CPU  ▼ │ MEM      
+      │            └───────┘ └──────────┘│ │ ▼ conui                          │   4367 │ build.exe    │  17.0% │  129.6 MB  
+      │ ◆ RUN ◆ [ STOP ] [ RESET ]       │ │   ├─▼ docs                       │   1357 │ ninja.exe    │  16.7% │  115.7 MB  
+      │                                  │ │   │   ├── REFERENCES.md    4.1K  │   4724 │ cc1plus.exe  │  16.4% │  101.8 MB  
+      │ [✓] Transparent background       │ │   │   ├── DESIGN_SYSTEM.md       │   1777 │ cc1plus.exe  │  15.9% │   32.6 MB  
+     │ [ ] Show cell grid               │ │   │   ├── IMPLEMENTATION_PLAN.…  │   5144 │ ld.exe       │  15.6% │   18.7 MB   
+     │ [~] Autosave                     │ │   │   └── FORK.md          5.2K  │   2134 │ cmake.exe    │  15.3% │    4.8 MB   
+     │                                  │ │   ├─▶ refs                 (13)  │   2554 │ explorer.exe │  14.5% │   61.7 MB   
+    │ BLUR           ON                │ │   ├─▼ src                        │   5921 │ dwm.exe      │  14.2% │   47.8 MB    
+    │                                  │ │   │   ├─▶ App               (3)  │   2911 │ svchost.exe  │  13.9% │   33.9 MB    
+    │ OPACITY                     97%  │ │   │   ├─▶ Core              (3)  │   3331 │ code.exe     │  13.1% │   90.8 MB    
+    │ PANELS                     100%  │ │   │   ├─▶ Render            (2)  │   6698 │ git.exe      │  12.8% │   76.9 MB    
+    │ STEPS                       3/8┌[ CONFIRM ]─────────────────────────────────────┐bash.exe     │  12.5% │   63.0 MB    
+     │ RANGE                   12 … 4│                                                │ conui.exe    │  11.7% │  119.9 MB   
+     │                               │  Delete 3 selected items?                      │ build.exe    │  11.4% │  106.0 MB   
+     │ [ DELETE… ] [ FAULT ]         │  This action cannot be undone.                 │ ninja.exe    │  11.1% │   92.1 MB   
+     │ PREVIEW            108×80 RGBA│                                                │ ninja.exe    │  10.6% │   22.9 MB   
+     │                               │                                                │ cc1plus.exe  │  10.3% │    9.0 MB   
+     │                               │                      [ DELETE ]  ◆ CANCEL ◆    │ ld.exe       │  10.0% │  135.1 MB   
+     │                               │                                                │                                     
+     │                               └────────────────────────────────────────────────┘                                     
+     │                                  │ │                │        │ cache  │ ┌[ NOTES ]─────────────────────────────────┐ 
+     │                                  │ │ Sidebar        │ ceo    │ Icons  │ │ 1  First line of the document.           │ 
+     └──────────────────────────────────┘ │ Glitches       │ anna   │ Tear,  │ │ 2  Second line: click, type, select with │ 
+                                          │                │        │ Off in │ │ 3                                        │ 
+     ┌[ BUILD ]─────────────────── 3/4 ─┐ │                │        │ One at │ │ 4  Ctrl+A/C/X/V, Insert toggles overwrit │ 
+     │ COMPILE                     100% │ │ Theme editor   │ max    │        │ │ 5  Строка на кириллице — по кодпоинтам.  │ 
+     │ RESOURCES                    64% │ │ Editable table │ ceo    │ Enter  │ │    ~                                     │ 
+     │ LINK                          0% │ │                │        │ Shift+ │ │    ~                                     │ 
+     │                                  │ │                                  │ │    ~                                     │ 
+     │ TESTS      [■■■■■■■■□□□□□] 14/22 │ │                                  │ │    ~                                     │ 
+     │ PENDING                          │ │                                  │ │    ~                                     │ 
+     │                                  │ │                                  │ ├──────────────────────────────────────────┤ 
+     │                                  │ │                                  │ │ LN 1, COL 1      UTF-8  LF       5 lines │ 
+     └──────────────────────────────────┘ └──────────────────────────────────┘ └──────────────────────────────────────────┘ 
+    ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   READY   F1 help   F11 fullscreen   Ctrl+Q quit                                     60 FPS · 1 draw call · 12408 verts ◆  
