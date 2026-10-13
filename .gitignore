@@ -1,0 +1,10 @@
+# Build output
+build/
+build-*/
+build_*/
+dist/
+
+# Files the application writes at runtime
+data.bin
+data.bin.tmp
+*.actual.txt
